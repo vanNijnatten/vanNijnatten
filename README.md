@@ -4,6 +4,7 @@
 I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, genetics 🧬 and bioinformatics 📊💻, and I'm working on a couple of research papers 📚 and my thesis. I am a professional coder 👨‍💻. Some other things about me:
 
 
+- Most of my repositories are private<br />
 - 💬 Ask me about bioinformatics, genetics, programming<br />
 - 📫 You can reach me via my socials<br />
 - ⚡ Fun fact: My code works. I have no clue why
