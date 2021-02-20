@@ -18,3 +18,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 ![Atom](https://img.shields.io/badge/-Atom-66585c?style=flat&logoColor=white&logo=atom)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logoColor=white&logo=latex)
 ![Mendeley](https://img.shields.io/badge/-Mendeley-9d1620?style=flat&logoColor=white&logo=mendeley)
+
+<!--
+shields.io icons via https://simpleicons.org/
+-->
