@@ -13,7 +13,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 ![C-Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white&logo=c-sharp)
 ![R](https://img.shields.io/badge/-R-276dc3?style=flat&logoColor=white&logo=r)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=white&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=white&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=black&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logoColor=white&logo=github)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logoColor=white&logo=vim)
 ![Atom](https://img.shields.io/badge/-Atom-66585c?style=flat&logoColor=white&logo=atom)
