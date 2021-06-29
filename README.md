@@ -6,8 +6,9 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 
 - Most of my repositories are private<br />
 - 💬 Ask me about bioinformatics, genetics, programming<br />
-- 📫 You can reach me via my socials<br />
-- ⚡ Fun fact: My code works. I have no clue why
+- 🧑‍💻 I like technology, 📈 statistics, 🧮 mathematics<br />
+- 📫 You can reach me via my socials, possibly<br />
+- ⚡ Fun fact: My code works. I have no clue why 🤨
 
 
 ![C-Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white&logo=c-sharp)
