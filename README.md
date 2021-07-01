@@ -1,4 +1,10 @@
-# [![Linkedin Badge][logo_linkedin]](https://www.linkedin.com/in/jos-van-nijnatten/) [![Github Badge][logo_github]](https://github.com/vanNijnatten/) [![Twitter Badge][logo_twitter]](https://twitter.com/J_vanNijnatten) [![StackOverdlow][logo_stackoverflow]](https://stackoverflow.com/story/vannijnatten) [![Dev.to][logo_devto]](https://dev.to/vannijnatten) [![LinkTree][logo_linktree]](https://linktr.ee/vanNijnatten)
+[![Linkedin Badge][logo_linkedin]](https://www.linkedin.com/in/jos-van-nijnatten/)
+[![Github Badge][logo_github]](https://github.com/vanNijnatten/)
+[![Twitter Badge][logo_twitter]](https://twitter.com/J_vanNijnatten)
+[![StackOverdlow][logo_stackoverflow]](https://stackoverflow.com/story/vannijnatten)
+[![Dev.to][logo_devto]](https://dev.to/vannijnatten)
+[![LinkTree][logo_linktree]](https://linktr.ee/vanNijnatten)
+
 
 ### Hi there,
 I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, genetics 🧬 and bioinformatics 📊💻, and I'm working on a couple of research papers 📚 and my thesis. I am a professional coder 👨‍💻. Some other things about me:
@@ -11,15 +17,15 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 - ⚡ Fun fact: My code works. I have no clue why 🤨
 
 
-![C-Sharp][logo_csharp]
-![R][logo_r]
-![Python][logo_python]
-![Linux][logo_linux]
-![GitHub][logo_github]
-![Vim][logo_vim]
-![Atom][logo_atom]
-![LaTeX][logo_latex]
-![Mendeley][logo_mendeley]
+[![C-Sharp][logo_csharp]](#)
+[![R][logo_r]](#)
+[![Python][logo_python]](#)
+[![Linux][logo_linux]](#)
+[![GitHub][logo_github]](#)
+[![Vim][logo_vim]](#)
+[![Atom][logo_atom]](#)
+[![LaTeX][logo_latex]](#)
+[![Mendeley][logo_mendeley]](#)
 
 
 [logo_atom]: img/atom.svg "Atom.io"
