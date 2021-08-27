@@ -63,4 +63,5 @@ Vim: https://img.shields.io/badge/-Vim-019733?style=flat&logoColor=white&logo=vi
 
 
 
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)
+![User Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)
+![User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanNijnatten&layout=compact&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)
