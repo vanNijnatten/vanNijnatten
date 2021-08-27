@@ -61,6 +61,6 @@ Twitter: https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&lo
 Vim: https://img.shields.io/badge/-Vim-019733?style=flat&logoColor=white&logo=vim
 -->
 
----
 
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark)
+
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true)
