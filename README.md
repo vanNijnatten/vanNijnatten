@@ -27,7 +27,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![LaTeX][logo_latex]](#)
 [![Mendeley][logo_mendeley]](#)
 
-
 [logo_atom]: img/atom.svg "Atom.io"
 [logo_csharp]: img/csharp.svg "C#"
 [logo_devto]: img/devto.svg "DEV.To"
@@ -42,7 +41,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_stackoverflow]: img/stackoverflow.svg "Stack Overflow"
 [logo_twitter]: img/twitter.svg "Twitter"
 [logo_vim]: img/vim.svg "Vim"
-
 
 <!--
 shields.io icons via https://simpleicons.org/
@@ -62,3 +60,7 @@ Stack Overflow: https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&lo
 Twitter: https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white
 Vim: https://img.shields.io/badge/-Vim-019733?style=flat&logoColor=white&logo=vim
 -->
+
+---
+
+![Repo Stats][https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark]
