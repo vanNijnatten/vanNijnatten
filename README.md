@@ -25,7 +25,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![Vim][logo_vim]](#)
 [![Atom][logo_atom]](#)
 [![LaTeX][logo_latex]](#)
-[![Mendeley][logo_mendeley]](#)
 [![Zotero][logo_zotero]](#)
 
 [logo_atom]: img/atom.svg "Atom.io"
