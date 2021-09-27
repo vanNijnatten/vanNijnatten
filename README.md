@@ -26,6 +26,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![Atom][logo_atom]](#)
 [![LaTeX][logo_latex]](#)
 [![Mendeley][logo_mendeley]](#)
+[![Zotero][logo_zotero]](#)
 
 [logo_atom]: img/atom.svg "Atom.io"
 [logo_csharp]: img/csharp.svg "C#"
@@ -41,6 +42,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_stackoverflow]: img/stackoverflow.svg "Stack Overflow"
 [logo_twitter]: img/twitter.svg "Twitter"
 [logo_vim]: img/vim.svg "Vim"
+[logo_zotero]: https://img.shields.io/badge/-Zotero-CC2936?style=flat&logoColor=white&logo=zotero "Zotero"
+
 
 <!--
 shields.io icons via https://simpleicons.org/
@@ -59,8 +62,8 @@ R: https://img.shields.io/badge/-R-276dc3?style=flat&logoColor=white&logo=r
 Stack Overflow: https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=StackOverflow&logoColor=white
 Twitter: https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white
 Vim: https://img.shields.io/badge/-Vim-019733?style=flat&logoColor=white&logo=vim
+Zotero: https://img.shields.io/badge/-Zotero-CC2936?style=flat&logoColor=white&logo=zotero
 -->
-
 
 
 [![User Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)](#)
