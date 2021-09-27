@@ -10,7 +10,7 @@
 I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, genetics 🧬 and bioinformatics 📊💻, and I'm working on a couple of research papers 📚 and my thesis. I am a professional coder 👨‍💻. Some other things about me:
 
 
-- Most of my repositories are private<br />
+- Most of my repositories are private, for [RBMB](https://github.com/UTS-Bioinformatics) or [GRIAC](https://github.com/GRIAC-Bioinformatics)<br />
 - 💬 Ask me about bioinformatics, genetics, programming<br />
 - 🧑‍💻 I like technology, 📈 statistics, 🧮 mathematics<br />
 - 📫 You can reach me via my socials, possibly<br />
