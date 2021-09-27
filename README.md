@@ -42,7 +42,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_stackoverflow]: img/stackoverflow.svg "Stack Overflow"
 [logo_twitter]: img/twitter.svg "Twitter"
 [logo_vim]: img/vim.svg "Vim"
-[logo_zotero]: https://img.shields.io/badge/-Zotero-CC2936?style=flat&logoColor=white&logo=zotero "Zotero"
+[logo_zotero]: img/zotero.svg "Zotero"
 
 
 <!--
