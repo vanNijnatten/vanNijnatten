@@ -27,8 +27,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![LaTeX][logo_latex]](#)
 [![Zotero][logo_zotero]](#)
 
-[![User Stats](user_stats)](#)
-<!-- [![User Languages](user_languages)](#) -->
+[![User Stats][user_stats]](#)
+<!-- [![User Languages][user_languages]](#) -->
 
 
 <!-- shields.io icons via https://simpleicons.org/ -->
@@ -64,6 +64,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_zotero]: img/zotero.svg "Zotero"
 
 
-[user_stats]: https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000 "User Stats"
-[user_languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=vanNijnatten&layout=compact&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000 "User Languages"
+[user_stats]: "https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" "User Stats"
+[user_languages]: "https://github-readme-stats.vercel.app/api/top-langs/?username=vanNijnatten&layout=compact&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" "User Languages"
 
