@@ -50,7 +50,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 <!-- https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=white&logo=linux -->
 [logo_linux]: img/linux.svg "Linux"
 <!-- https://img.shields.io/badge/-Medium-000000?style=flat&logoColor=white&logo=Medium -->
-[logo_medium]: https://img.shields.io/badge/-Medium-000000?style=flat&logoColor=white&logo=Medium "Medium"
+[logo_medium]: img/medium.svg "Medium"
 <!-- https://img.shields.io/badge/-Mendeley-9d1620?style=flat&logoColor=white&logo=mendeley -->
 [logo_mendeley]: img/mendeley.svg "Mendeley"
 <!-- https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=white&logo=python -->
