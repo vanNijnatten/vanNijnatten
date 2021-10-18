@@ -2,6 +2,7 @@
 [![Github Badge][logo_github]](https://github.com/vanNijnatten/)
 [![Twitter Badge][logo_twitter]](https://twitter.com/J_vanNijnatten)
 [![StackOverdlow][logo_stackoverflow]](https://stackoverflow.com/story/vannijnatten)
+[![Medium][logo_medium]](https://medium.com/@VanNijnatten)
 [![Dev.to][logo_devto]](https://dev.to/vannijnatten)
 [![LinkTree][logo_linktree]](https://linktr.ee/vanNijnatten)
 
@@ -48,6 +49,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_linktree]: img/linktree.svg "LinkTree"
 <!-- https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=white&logo=linux -->
 [logo_linux]: img/linux.svg "Linux"
+<!-- https://img.shields.io/badge/-Medium-000000?style=flat&logoColor=white&logo=Medium -->
+[logo_medium]: https://img.shields.io/badge/-Medium-000000?style=flat&logoColor=white&logo=Medium "Medium"
 <!-- https://img.shields.io/badge/-Mendeley-9d1620?style=flat&logoColor=white&logo=mendeley -->
 [logo_mendeley]: img/mendeley.svg "Mendeley"
 <!-- https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=white&logo=python -->
