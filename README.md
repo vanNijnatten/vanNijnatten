@@ -4,6 +4,7 @@
 [![StackOverdlow][logo_stackoverflow]](https://stackoverflow.com/story/vannijnatten)
 [![Medium][logo_medium]](https://medium.com/@VanNijnatten)
 [![Dev.to][logo_devto]](https://dev.to/vannijnatten)
+[![Kaggle][logo_kaggle]](https://www.kaggle.com/vannijnatten)
 [![LinkTree][logo_linktree]](https://linktr.ee/vanNijnatten)
 
 
@@ -41,6 +42,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_devto]: img/devto.svg "DEV.To"
 <!-- https://img.shields.io/badge/-GitHub-181717?style=flat&logoColor=white&logo=github -->
 [logo_github]: img/github.svg "GitHub"
+<!-- https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logoColor=white&logo=kaggle -->
+[logo_kaggle]: img/kaggle.svg "Kaggle"
 <!-- https://img.shields.io/badge/-LaTeX-008080?style=flat&logoColor=white&logo=latex -->
 [logo_latex]: img/latex.svg "LaTeX"
 <!-- https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white -->
