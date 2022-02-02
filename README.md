@@ -16,7 +16,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 - 💬 Ask me about bioinformatics, genetics, programming<br />
 - 🧑‍💻 I like technology, 📈 statistics, 🧮 mathematics<br />
 - 📫 You can reach me via my socials, possibly<br />
-- ⚡ Fun fact: My code works. I have no clue why 🤨
+- ⚡ Fun fact: My code works. I have no clue why 🤨<br />
+- 👨🏻‍🏫 I am trying to make some [educational webslides](https://github.com/vanNijnatten/Presentations)
 
 
 [![C-Sharp][logo_csharp]](#)
@@ -68,5 +69,3 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_vim]: img/vim.svg "Vim"
 <!-- https://img.shields.io/badge/-Zotero-CC2936?style=flat&logoColor=white&logo=zotero -->
 [logo_zotero]: img/zotero.svg "Zotero"
-
-
