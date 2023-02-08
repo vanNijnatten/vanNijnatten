@@ -30,7 +30,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![LaTeX][logo_latex]](#)
 [![Zotero][logo_zotero]](#)
 
-[![User Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)](#)
+[![User Trophies](https://github-profile-trophy.vercel.app/?username=vanNijnatten&theme=onedark)](#)
+<!-- [![User Stats](https://github-readme-stats.vercel.app/api?username=vanNijnatten&count_private=true&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)](#) -->
 <!-- [![User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanNijnatten&layout=compact&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000)](#) -->
 
 
