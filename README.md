@@ -31,15 +31,11 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 205.8 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2023
+> 🏆 175 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,7 +56,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 08:29:44 UTC
+ Last Updated on 28/12/2023 08:37:09 UTC
 <!--END_SECTION:waka-->
 
 
