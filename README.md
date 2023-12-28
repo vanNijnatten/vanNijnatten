@@ -30,14 +30,14 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![Zotero][logo_zotero]](#)
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka_week-->
+<!--END_SECTION:waka_week-->
 
- Last Updated on 28/12/2023 07:45:36 UTC
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka_projects-->
+<!--END_SECTION:waka_projects-->
 
 
 <!-- shields.io icons via https://simpleicons.org/ -->
-
 <!-- https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white -->
 [logo_linkedin]: img/linkedin.svg "LinkedIn"
 <!-- https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white -->
