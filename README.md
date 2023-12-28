@@ -8,12 +8,15 @@
 I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, transcriptomics/epigenetics 🧬 and COPD 🫁 using bioinformatics 📊💻. I am currently working on a couple of research papers 📚 and my thesis 📖. I am proud to be a professional coder 👨‍💻. Some other things about me:
 
 
-- Most of my repositories are private, for [RBMB](https://github.com/UTS-Bioinformatics) or [GRIAC](https://github.com/GRIAC-Bioinformatics)<br />
-- 💬 Ask me about bioinformatics, genetics, programming<br />
-- 🧑‍💻 I like technology, 📈 statistics, 🧮 mathematics<br />
-- 📫 You can reach me via my socials, possibly<br />
-- ⚡ Fun fact: My code works. I have no clue why 🤨<br />
-- 👨🏻‍🏫 I am trying to make some [educational webslides](https://github.com/vanNijnatten/Presentations)
+- 🧑‍💻 Most of my repositories are private, for [RBMB](https://github.com/UTS-Bioinformatics) or [GRIAC](https://github.com/GRIAC-Bioinformatics).<br />
+- 💬 Ask me about bioinformatics, genetics, programming.<br />
+- 💻 I like technology, 📈 statistics, 🧮 mathematics.<br />
+- 📖 I am learning Python 🐍, C++ and data science 📊.<br />
+- ⚡ Fun fact #1: My code works. I have no clue why 🤨.<br />
+- ⚡ Fun fact #2: I like video games 🎮, photo- 📸 and videography 📽️, and my motorcycle 🏍️.<br />
+- 👨🏻‍🏫 I am making some [educational webslides](https://github.com/vanNijnatten/Presentations)<br />
+- 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects<br />
+- 📫 You can reach me via my socials, possibly.
 
 
 
