@@ -31,8 +31,38 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
- Last Updated on 28/12/2023 08:12:22 UTC
+**🐱 My GitHub Data** 
+
+> 📦 205.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 176 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I Mostly Code in R** 
+
+```text
+R                        12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/vanNijnatten/vanNijnatten/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/12/2023 08:22:03 UTC
 <!--END_SECTION:waka-->
 
 
