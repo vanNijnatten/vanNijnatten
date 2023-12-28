@@ -31,10 +31,8 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-
- Last Updated on 28/12/2023 07:31:37 UTC
+ Last Updated on 28/12/2023 07:45:36 UTC
 <!--END_SECTION:waka-->
 
 
