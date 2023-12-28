@@ -16,17 +16,15 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 - 👨🏻‍🏫 I am trying to make some [educational webslides](https://github.com/vanNijnatten/Presentations)
 
 
-[![C-Sharp][logo_csharp]](#)
-[![R][logo_r]](#)
-[![Python][logo_python]](#)
 
 [![Windows][logo_windows]](#)
 [![MacOS][logo_macos]](#)
 [![Linux][logo_linux]](#)
-
-[![Vim][logo_vim]](#)
+[![C-Sharp][logo_csharp]](#)
+[![R][logo_r]](#)
+[![Python][logo_python]](#)
 [![VS-Code][logo_vscode]](#)
-
+[![Vim][logo_vim]](#)
 [![LaTeX][logo_latex]](#)
 [![Obsidian.md][logo_obsidian]](#)
 [![Zotero][logo_zotero]](#)
@@ -45,19 +43,19 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_devto]: img/devto.svg "DEV.To"
 
 
-<!-- https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white&logo=c-sharp -->
-[logo_csharp]: img/csharp.svg "C#"
-<!-- https://img.shields.io/badge/-R-276dc3?style=flat&logoColor=white&logo=r -->
-[logo_r]: img/r.svg "R"
-<!-- https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=white&logo=python -->
-[logo_python]: img/python.svg "Python"
-
 <!-- https://img.shields.io/badge/-Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white -->
 [logo_windows]: img/windows.svg "Windows"
 <!-- https://img.shields.io/badge/-Mac%20OS-000000?style=flat&logo=macos&logoColor=white -->
 [logo_macos]: img/macos.svg "Mac OS"
 <!-- https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=white&logo=linux -->
 [logo_linux]: img/linux.svg "Linux"
+
+<!-- https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white&logo=c-sharp -->
+[logo_csharp]: img/csharp.svg "C#"
+<!-- https://img.shields.io/badge/-R-276dc3?style=flat&logoColor=white&logo=r -->
+[logo_r]: img/r.svg "R"
+<!-- https://img.shields.io/badge/-Python-3776ab?style=flat&logoColor=white&logo=python -->
+[logo_python]: img/python.svg "Python"
 
 <!-- https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white -->
 [logo_vscode]: img/vscode.svg "VS Code"
