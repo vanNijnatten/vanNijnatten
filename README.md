@@ -64,13 +64,15 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+R                        59 mins             ████████████████████░░░░░   81.44 % 
+Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             ████████████████████░░░░░   81.44 % 
+Obsidian                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -86,7 +88,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2024 01:17:47 UTC
+ Last Updated on 04/02/2024 01:17:41 UTC
 <!--END_SECTION:waka-->
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
