@@ -5,7 +5,7 @@
 
 
 ### Hi there,
-I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, transcriptomics/epigenetics 🧬 and COPD 🫁 using bioinformatics 📊💻. I am currently working on a couple of research papers 📚 and my thesis 📖. I am proud to be a professional coder 👨‍💻. Some other things about me:
+I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl), and now work as a data consultant at Valcon. I studied medical research 🦠🔬, transcriptomics/epigenetics 🧬 and COPD 🫁 using bioinformatics 📊💻. I am currently working on a couple of research papers 📚 and my thesis 📖. I am proud to be a professional coder 👨‍💻. Some other things about me:
 
 
 - 🧑‍💻 Most of my repositories are private, for [RBMB](https://github.com/UTS-Bioinformatics) or [GRIAC](https://github.com/GRIAC-Bioinformatics).<br />
