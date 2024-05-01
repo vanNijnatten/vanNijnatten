@@ -14,7 +14,7 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 - 📖 I am learning Python 🐍, C++ and data science 📊.<br />
 - ⚡ Fun fact #1: My code works. I have no clue why 🤨.<br />
 - ⚡ Fun fact #2: I like video games 🎮, photo- 📸 and videography 📽️, and my motorcycle 🏍️.<br />
-- 👨🏻‍🏫 I am making some [educational webslides](https://github.com/vanNijnatten/Presentations)<br />
+- 👨🏻‍🏫 I am writing [Notes](https://github.com/vanNijnatten/Notes)(private) and making some [educational webslides](https://github.com/vanNijnatten/Presentations) based on those<br />
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects<br />
 - 📫 You can reach me via my socials, possibly.
 
@@ -31,64 +31,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [![LaTeX][logo_latex]](#)
 [![Obsidian.md][logo_obsidian]](#)
 [![Zotero][logo_zotero]](#)
-
-
----
-
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                191 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                138 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌙 Night                  186 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Tuesday                  112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Wednesday                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Thursday                 128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Saturday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in R** 
-
-```text
-R                        10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-
-
- Last Updated on 28/04/2024 01:20:55 UTC
-<!--END_SECTION:waka-->
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 
 <!-- shields.io icons via https://simpleicons.org/ -->
