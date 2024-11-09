@@ -1,3 +1,4 @@
+<!--
 [![Linkedin Badge][logo_linkedin]](https://www.linkedin.com/in/jos-van-nijnatten/)
 [![Github Badge][logo_github]](https://github.com/vanNijnatten/)
 [![Twitter Badge][logo_twitter]](https://twitter.com/J_vanNijnatten)
@@ -5,7 +6,7 @@
 [![Medium][logo_medium]](https://medium.com/@VanNijnatten)
 [![Dev.to][logo_devto]](https://dev.to/vannijnatten)
 [![Kaggle][logo_kaggle]](https://www.kaggle.com/vannijnatten)
-
+-->
 
 ### Hi there,
 I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.edu.au) and [UMCG](https://www.umcg.nl). I study medical research 🦠🔬, genetics 🧬 and bioinformatics 📊💻, and I'm working on a couple of research papers 📚 and my thesis. I am a professional coder 👨‍💻. Some other things about me:
@@ -16,16 +17,15 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 - 🧑‍💻 I like technology, 📈 statistics, 🧮 mathematics<br />
 - 📫 You can reach me via my socials, possibly<br />
 - ⚡ Fun fact: My code works. I have no clue why 🤨<br />
-- 👨🏻‍🏫 I am trying to make some [educational webslides](https://github.com/vanNijnatten/Presentations)
+- 👨🏻‍🏫 I am trying to make some educational webslides
 
 
-[![C-Sharp][logo_csharp]](#)
-[![R][logo_r]](#)
 [![Python][logo_python]](#)
+[![R][logo_r]](#)
+[![C-Sharp][logo_csharp]](#)
 [![Linux][logo_linux]](#)
 [![GitHub][logo_github]](#)
 [![Vim][logo_vim]](#)
-[![Atom][logo_atom]](#)
 [![LaTeX][logo_latex]](#)
 [![Zotero][logo_zotero]](#)
 
@@ -35,8 +35,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 
 
 <!-- shields.io icons via https://simpleicons.org/ -->
-<!-- https://img.shields.io/badge/-Atom-66585c?style=flat&logoColor=white&logo=atom -->
-[logo_atom]: img/atom.svg "Atom.io"
 <!-- https://img.shields.io/badge/-C%23-239120?style=flat&logoColor=white&logo=c-sharp -->
 [logo_csharp]: img/csharp.svg "C#"
 <!-- https://img.shields.io/badge/-Dev.to-242A2D?style=flat&logo=dev.to&logoColor=white -->
