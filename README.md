@@ -5,7 +5,6 @@
 [![Medium][logo_medium]](https://medium.com/@VanNijnatten)
 [![Dev.to][logo_devto]](https://dev.to/vannijnatten)
 [![Kaggle][logo_kaggle]](https://www.kaggle.com/vannijnatten)
-[![LinkTree][logo_linktree]](https://linktr.ee/vanNijnatten)
 
 
 ### Hi there,
@@ -50,8 +49,6 @@ I am Jos van Nijnatten 🧔, a PhD student 🧑‍🔬 at [UTS](http://www.uts.e
 [logo_latex]: img/latex.svg "LaTeX"
 <!-- https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white -->
 [logo_linkedin]: img/linkedin.svg "LinkedIn"
-<!-- https://img.shields.io/badge/-LinkTree-39e09b?style=flat&logo=linktree&logoColor=white -->
-[logo_linktree]: img/linktree.svg "LinkTree"
 <!-- https://img.shields.io/badge/-Linux-fcc624?style=flat&logoColor=white&logo=linux -->
 [logo_linux]: img/linux.svg "Linux"
 <!-- https://img.shields.io/badge/-Medium-000000?style=flat&logoColor=white&logo=Medium -->
